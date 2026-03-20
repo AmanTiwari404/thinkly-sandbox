@@ -39,4 +39,4 @@ As the AI streams the React code, the Preview plane updates live, creating a sea
 ## Submission Details
 
 - **Deployed URL**: https://thinkly-sandbox.vercel.app/
-- **Loom Walkthrough**: [Insert Loom Video Link here]
+- **Loom Walkthrough**: https://drive.google.com/file/d/1AsR8ST-mdS3qcSsJ_tPKmovWwipMQsDS/view?usp=sharing
